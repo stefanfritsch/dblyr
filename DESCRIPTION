@@ -1,0 +1,10 @@
+Package: dblyr
+Type: Package
+Title: Database functions for dplyr
+Version: 0.1
+Date: 2015-10-07
+Author: Stefan Fritsch
+Maintainer: Stefan Fritsch <fritsch@stat-up.com>
+Description: Some functions to make working with databases on dplyr more convenient. In particular functions to push changes back to the database.
+License: GPL (==2)
+Imports: dplyr, magrittr, RMySQL, DBI
